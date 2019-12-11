@@ -1,0 +1,12 @@
+name: Dashboard
+title: Dashboard
+username:
+account: david-akumi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1589328
+bundleId: 2659068
+url: https://david-akumi.shinyapps.io/Dashboard/
+when: 1576075124.68533
+asMultiple: FALSE
+asStatic: FALSE
